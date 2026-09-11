@@ -1,3 +1,3 @@
-[https://github.com/yyusufer/Greeting-Builder/blob/main/func
-](https://roadmap.sh/projects/js-greeting-builder)
+https://roadmap.sh/projects/js-greeting-builder
 https://roadmap.sh/projects/js-temperature-converter
+https://roadmap.sh/projects/js-number-checker
